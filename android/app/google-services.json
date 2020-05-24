@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "268707114710",
+    "firebase_url": "https://flutter-40711.firebaseio.com",
+    "project_id": "flutter-40711",
+    "storage_bucket": "flutter-40711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268707114710:android:56263f59e4210c5e48e377",
+        "android_client_info": {
+          "package_name": "com.example.ChatUp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268707114710-kabhichif86fu14hl1eq81uvn63ljatr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgmtm6YCej49ko949R-nKA2Oenlfw2KGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268707114710-kabhichif86fu14hl1eq81uvn63ljatr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
